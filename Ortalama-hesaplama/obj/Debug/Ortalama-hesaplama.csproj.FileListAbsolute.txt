@@ -1,0 +1,10 @@
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.exe.config
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.pdb
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.AssemblyReference.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama_hesaplama.Form1.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama_hesaplama.Properties.Resources.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.GenerateResource.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.pdb
